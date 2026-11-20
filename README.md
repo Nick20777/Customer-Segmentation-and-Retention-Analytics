@@ -56,7 +56,7 @@ The recommendations are exploratory and have not been tested through controlled 
 | Resource | Description |
 |---|---|
 | [Excel Workbook](https://docs.google.com/spreadsheets/d/1rGZcXNRVhvjBib5ACiXuYZ3mk78c-zQQ/edit?usp=sharing&ouid=102514688899208360531&rtpof=true&sd=true) | Complete workbook containing data preparation, analysis, and dashboard |
-| [Project Report](Customer_Analytics_Report.pdf) | Detailed methodology, findings, and recommendations |
+| [Project Report](Customer%20Analytics%20Report.pdf) | Detailed methodology, findings, and recommendations |
 | [Dashboard Preview](Customer%20Analytics%20Dashboard.png) | Final dashboard image |
 
 ## Skills
@@ -69,4 +69,4 @@ Excel · Power Query · Data Cleaning · RFM Analysis · Customer Segmentation �
 
 ⸻
 
-**Dung Vu** - Second-year studemt in Business Sciences - Sapienza University of Rome
+**Dung Vu (Nick)** - Second-year student in Business Sciences - Sapienza University of Rome
