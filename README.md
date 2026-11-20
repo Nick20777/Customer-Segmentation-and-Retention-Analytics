@@ -35,7 +35,7 @@ A few notable findings:
 
 ## Dashboard Preview
 
-The Excel dashboard brings together key business metrics and visualizations covering customer segments, revenue, purchasing frequency, and cohort retention.
+![Customer Analytics Dashboard](Customer%20Analytics%20Dashboard.png)
 
 ## What I Built
 
@@ -67,6 +67,4 @@ Chen, D. (2015). Online Retail — UCI Machine Learning Repository.
 
 ⸻
 
-Dung Vu
-BSc in Business Sciences | Sapienza University of Rome
-Independent Data Analytics Portfolio Project
+**Dung Vu** - Second-year studemt in Business Sciences - Sapienza University of Rome
