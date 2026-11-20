@@ -53,9 +53,11 @@ The recommendations are exploratory and have not been tested through controlled 
 
 ## Project Files
 
-* Excel Workbook — Data preparation, analysis, and dashboard.
-* Project Report — Detailed methodology, findings, and recommendations.
-* Dashboard Preview — Dashboard image.
+| Resource | Description |
+|---|---|
+| [Excel Workbook](https://docs.google.com/spreadsheets/d/1rGZcXNRVhvjBib5ACiXuYZ3mk78c-zQQ/edit?usp=sharing&ouid=102514688899208360531&rtpof=true&sd=true) | Complete workbook containing data preparation, analysis, and dashboard |
+| [Project Report](Customer_Analytics_Report.pdf) | Detailed methodology, findings, and recommendations |
+| [Dashboard Preview](Customer%20Analytics%20Dashboard.png) | Final dashboard image |
 
 ## Skills
 
@@ -63,7 +65,7 @@ Excel · Power Query · Data Cleaning · RFM Analysis · Customer Segmentation �
 
 ## Data Source
 
-Chen, D. (2015). Online Retail — UCI Machine Learning Repository.
+[Online Retail — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 ⸻
 
